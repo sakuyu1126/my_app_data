@@ -28,6 +28,21 @@
         "name": "カレーライス",
         "price": 300,
         "restaurant": "ILSOLE"
-      }
+      },
+    {
+      "name": "KITランチ",
+      "price": 370,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "カツカレー",
+      "price": 500,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "日替わりラーメン",
+      "price": 300,
+      "restaurant": "LATERRA"
+    }
   ]
   
