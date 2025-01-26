@@ -15,8 +15,8 @@
       "restaurant": "LATERRA"
     },
     {
-      "name": "うどん",
-      "price": 350,
+      "name": "コーンポタージュ",
+      "price": 200,
       "restaurant": "ILSOLE"
     },
     {
@@ -25,7 +25,7 @@
       "restaurant": "ILSOLE"
     },
     {
-        "name": "カレーライス",
+        "name": "バターチキンカレー",
         "price": 300,
         "restaurant": "ILSOLE"
       },
