@@ -20,7 +20,7 @@
       "restaurant": "ILSOLE"
     },
     {
-      "name": "定食",
+      "name": "カルボナーラ",
       "price": 500,
       "restaurant": "ILSOLE"
     },
@@ -38,6 +38,21 @@
       "name": "カツカレー",
       "price": 500,
       "restaurant": "LATERRA"
+    },
+    {
+      "name": "日替わりラーメン",
+      "price": 300,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "鳥マヨDX丼",
+      "price": 570,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "ハントンライス",
+      "price": 550,
+      "restaurant": "ILSOLE"
     },
     {
       "name": "日替わりラーメン",
