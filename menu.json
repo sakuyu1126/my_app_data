@@ -1,0 +1,33 @@
+[
+    {
+      "name": "KITランチ",
+      "price": 450,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "カレーライス",
+      "price": 300,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "ラーメン",
+      "price": 400,
+      "restaurant": "LATERRA"
+    },
+    {
+      "name": "うどん",
+      "price": 350,
+      "restaurant": "ILSOLE"
+    },
+    {
+      "name": "定食",
+      "price": 500,
+      "restaurant": "ILSOLE"
+    },
+    {
+        "name": "カレーライス",
+        "price": 300,
+        "restaurant": "ILSOLE"
+      }
+  ]
+  
